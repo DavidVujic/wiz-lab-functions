@@ -10,7 +10,7 @@
     {
       "type": "blob",
       "name": "outputBlob",
-      "path": "wizlabconnector/{rand-guid}",
+      "path": "wizlabconnect/{rand-guid}",
       "connection": "AzureWebJobsStorage",
       "direction": "out"
     }
