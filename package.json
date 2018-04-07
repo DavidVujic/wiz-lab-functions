@@ -1,0 +1,15 @@
+{
+  "name": "wiz-lab-functions",
+  "version": "1.0.0",
+  "description": "Experimenting with Azure Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "David Vujic",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.x"
+  }
+}
